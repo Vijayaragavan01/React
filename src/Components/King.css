@@ -1,0 +1,33 @@
+.bg{
+    border: 1px black;
+    height: 900px;
+    width: 1500px;
+    background-color: skyblue;
+}
+.a1{
+    border: 1px solid black;
+    height: 700px;
+    width: 600px;
+    margin-left: 300px;
+    background-color: rosybrown;
+    
+}
+.a2{
+    text-align: center;
+}
+.a3{
+    border-radius: 10px;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    /* border-bottom: 20px; */
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+.a4{
+    border: 1px solid black;
+    height: 600px;
+    width: 250px;
+    margin-left: 180px;
+    margin-top: -600px;
+}
